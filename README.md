@@ -114,6 +114,12 @@ Contributions are most welcome. Please refer to our [contributing guidelines](co
 
 * :sunglasses: [pygeoweaver](https://github.com/ESIPFed/pygeoweaver) - Python library for AI & geospatial workflow management, FAIRness, tangibility and productivity improvement
 
+* [Wildlife Insights](https://www.wildlifeinsights.org/) - Google-backed production platform for automated species identification from camera trap images using deep learning, integrating with GBIF and supporting large-scale biodiversity monitoring.
+
+* [iNaturalist Computer Vision](https://www.inaturalist.org/pages/computer_vision_demo) - Species identification model trained on community-contributed observations covering 76,000+ taxa; powers the iNaturalist app's AI suggestion feature and is openly described in peer-reviewed literature.
+
+* [Global Forest Watch](https://www.globalforestwatch.org/) - ML-powered deforestation and forest cover change monitoring platform using satellite imagery analysis; provides near-real-time alerts used by researchers and conservation organizations globally.
+
 | ▲ [Top](#awesome-earth-artificial-intelligence) |
 | --- |
 
